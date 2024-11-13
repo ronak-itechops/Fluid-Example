@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+zV7UaxSxk=",
+  "success": true,
+  "projectFilePath": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\Fluid_webApp\\Fluid_webApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BAPS\\.nuget\\packages\\fluid.core\\2.11.1\\fluid.core.2.11.1.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\fluid.mvcviewengine\\2.11.1\\fluid.mvcviewengine.2.11.1.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\fluid.viewengine\\2.11.1\\fluid.viewengine.2.11.1.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\parlot\\1.0.2\\parlot.1.0.2.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\BAPS\\.nuget\\packages\\timezoneconverter\\6.1.0\\timezoneconverter.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

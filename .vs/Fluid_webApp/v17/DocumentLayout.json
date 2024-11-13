@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|d:\\itechops-project\\fluid-templet\\fluid_webapp\\fluid_webapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|d:\\itechops-project\\fluid-templet\\fluid_webapp\\fluid_webapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|d:\\itechops-project\\fluid-templet\\fluid_webapp\\fluid_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6715B60D-F3B9-4B0F-8DCC-E69E97DBCF78}|Fluid_webApp\\Fluid_webApp.csproj|solutionrelative:fluid_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\Fluid_webApp\\Program.cs",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Program.cs",
+              "ToolTip": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\Fluid_webApp\\Program.cs",
+              "RelativeToolTip": "Fluid_webApp\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:38:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\Fluid_webApp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Fluid_webApp\\docker-compose.yml",
+              "ToolTip": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\Fluid_webApp\\docker-compose.yml",
+              "RelativeToolTip": "Fluid_webApp\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-04T10:41:40.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\Fluid_webApp\\Dockerfile",
+              "RelativeDocumentMoniker": "Fluid_webApp\\Dockerfile",
+              "ToolTip": "D:\\ItechOps-Project\\fluid-templet\\Fluid_webApp\\Fluid_webApp\\Dockerfile",
+              "RelativeToolTip": "Fluid_webApp\\Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-04T04:46:03.578Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

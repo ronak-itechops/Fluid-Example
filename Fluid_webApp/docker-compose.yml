@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  fluid_webapp:
+    image: fluid_webapp:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5050:80"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1  # Enables hot reload in Docker
+    volumes:
+      - "D:/Docker_View/Views:/app/Views"  # Mount only the Views folder
