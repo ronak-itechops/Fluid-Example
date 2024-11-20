@@ -47,25 +47,6 @@ When changes are made to any Liquid file in the project, they do not take effect
 The current configuration triggers a **full rebuild of all files** whenever a single file is modified. This rebuild time increases with the size of the project and volume, causing significant delays in reflecting changes.
 
 
-## Suggested Fixes or Workarounds
-
-To resolve this issue and improve efficiency, consider the following approaches:
-
-1. **Enable File Watching**:
-   - Ensure `DOTNET_USE_POLLING_FILE_WATCHER=1` is set in the `Dockerfile` to enable file change detection.
-
-2. **Optimize Build Process**:
-   - Use incremental builds or adjust file watching configurations to avoid full project rebuilds.
-
-3. **Volume Mapping**:
-   - Use volume mapping to link your development files directly to the container:
-     ```bash
-     docker run -p 5050:80 -v "local_path_to_views:/app/Views/:rw" your_image_name
-     ```
-
-4. **Monitor Rebuild Behavior**:
-   - Use tools to monitor the rebuild process and identify potential optimizations.
-
 
 ## Current Impact
 - **Affected Files**: Liquid files in the `/Views/` directory.
