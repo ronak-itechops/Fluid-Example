@@ -53,6 +53,3 @@ The current configuration triggers a **full rebuild of all files** whenever a si
 - **Current Behavior**: Any single file change causes a full project rebuild.
 - **Delay**: 5–10 minutes per change (depending on volume size).
 - **Impact**: Significant loss of productivity and increased development times.
-
-
-By including this information in your README file, contributors and team members can quickly understand the issue and its impact while exploring potential solutions.
